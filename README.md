@@ -1,0 +1,3 @@
+# instagram-trace
+
+Instagramのタイムラインとプロフィールをトレースしたデータです。
